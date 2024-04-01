@@ -27,28 +27,28 @@ export const nav = [
 export const featured = [
   {
     cover: "../images/hero/h1.png",
-    name: "Family House",
-    total: "122 Property",
+    name: "Enhance Productivity",
+    total: "Access specialized skills from partnering companies to accelerate project timelines.",
   },
   {
     cover: "../images/hero/h2.png",
-    name: "House & Villa",
-    total: "155 Property",
+    name: "Trustworthy Transactions",
+    total: "Our platform ensures secure transactions.",
   },
   {
     cover: "../images/hero/h3.png",
-    name: "Apartment",
-    total: "300 Property",
+    name: "Skill Exchange Platform",
+    total: "Explore a diverse range of skills offered by partnering companies.",
   },
   {
     cover: "../images/hero/h4.png",
-    name: "Office & Studio",
-    total: "80 Property",
+    name: " Flexible Agreements",
+    total: "Tailor agreements to your specific needs, ensuring transparency.",
   },
   {
     cover: "../images/hero/h6.png",
-    name: "Villa & Condo",
-    total: "80 Property",
+    name: " Seamless Communication",
+    total: "Stay connected with your partners.",
   },
 ]
 export const list = [
@@ -109,24 +109,24 @@ export const list = [
 ]
 export const awards = [
   {
-    icon: <i class='fa-solid fa-trophy'></i>,
-    num: "32 M	",
-    name: "Blue Burmin Award",
+    icon: <i class='fa-solid fa-1'></i>,
+    num: "Register",
+    name: "Log-in or Sign-Up ",
   },
   {
-    icon: <i class='fa-solid fa-briefcase'></i>,
-    num: "43 M",
-    name: "Mimo X11 Award",
+    icon: <i class='fa-solid fa-2'></i>,
+    num: "Search ",
+    name: "Search Your Requirements to get and to provide experts",
   },
   {
-    icon: <i class='fa-solid fa-lightbulb'></i>,
-    num: "51 M",
-    name: "Australian UGC Award",
+    icon: <i class='fa-solid fa-3'></i>,
+    num: "Match ",
+    name: "Find experts who fullfill or matches Your Requirements ",
   },
   {
-    icon: <i class='fa-solid fa-heart'></i>,
-    num: "42 M",
-    name: "IITCA Green Award",
+    icon: <i class='fa-solid fa-4'></i>,
+    num: "Connect",
+    name: "Connect with them and ignite innovation",
   },
 ]
 export const location = [

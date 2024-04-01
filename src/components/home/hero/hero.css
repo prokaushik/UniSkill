@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("../../../../public/images/banner.png");
+  background-image: url("../../../../public/images/banner.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -13,6 +13,7 @@
   color: #fff;
   font-size: 60px;
 }
+
 .hero p {
   color: #fff;
   opacity: 0.8;
@@ -26,7 +27,7 @@ form {
 form input {
   padding: 10px;
   width: 100%;
-  border: 1px solid rgba(128, 128, 128, 0.2);
+  border: 1px solid rgba(87, 87, 87, 0.2);
   margin-top: 5px;
   border-radius: 5px;
 }
