@@ -29,7 +29,7 @@ header span {
 }
 header h4 {
   font-weight: 500;
-  margin-right: 20px;
+  margin: -7px 10px 16px 5px
 }
 header .toggle {
   display: none;

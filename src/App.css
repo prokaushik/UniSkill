@@ -12,6 +12,15 @@ body {
   max-width: 80%;
   margin: auto;
 }
+
+.logo {
+  margin-top: -17px;
+}
+
+.nav {
+  margin-bottom: 21px !important;
+}
+
 .flex {
   display: flex;
   justify-content: space-between;
@@ -25,6 +34,19 @@ a {
 ul {
   list-style-type: none;
 }
+
+.head-btn {
+  margin: -11px 4px 16px 1px;
+}
+
+.head-btn button:first-child {
+  margin-right: 10px;
+}
+
+.logout-btn {
+  display: none;
+}
+
 button {
   border-radius: 5px;
   padding: 17px 30px;

@@ -7,7 +7,7 @@
   width: 100%;
 }
 .hero .container {
-  padding-top: 15%;
+  padding-top: 5%;
 }
 .hero h1 {
   color: #fff;
@@ -48,6 +48,12 @@ form .box:nth-child(1) {
 form h4 {
   font-weight: 500;
 }
+
+select {
+  border: 4px solid rgba(128, 128, 128, 0.699);
+  border-radius: 34px;
+}
+
 @media screen and (max-width: 800px) {
   .hero .container {
     padding-top: 30%;
